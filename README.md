@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakanksha1415
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in devops and cloud associated roles
 - 🌱 I’m currently learning Web Development and Data structure and algorithms
 - 📫 How to reach me --> You can connect with me on linkdein @aakanksha1415
 
