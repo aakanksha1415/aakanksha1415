@@ -1,7 +1,7 @@
 # 🐱‍🚀 Aakanksha Deshmukh
 ### Cloud/DevOps Engineer
 
-I'm a dedicated Cloud/DevOps Engineer with a solid foundation in automating and improving operations and cloud infrastructure. Through my experience at Nagarro and Cognizant, I aim to leverage the power of technology to boost scalability, performance, and efficiency in every project I undertake.
+Hi there! I’m Aakanksha, and for the past 1.5 years, I’ve been working as a DevOps Engineer. My work is all about making software development faster and smoother by improving how teams work together and using cloud technologies to our advantage. II really like finding ways to make software building and releasing faster and more reliable using the cloud. I’m passionate about creating better ways to build and release software, always with the goal of efficiency and security. I’m here to learn, share, and collaborate with others who are excited about pushing the boundaries of technology. Let’s make something great together!
 
 ## Languages and Tools
 
@@ -18,6 +18,7 @@ I'm a dedicated Cloud/DevOps Engineer with a solid foundation in automating and 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ## Connect With Me
