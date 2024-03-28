@@ -1,4 +1,4 @@
-# 🚀 Aakanksha Deshmukh
+#  Aakanksha Deshmukh
 ### Cloud/DevOps Engineer
 
 Hi there! I’m Aakanksha, and for the past 1.5 years, I’ve been working as a DevOps Engineer. My work is all about making software development faster and smoother by improving how teams work together and using cloud technologies to our advantage. II really like finding ways to make software building and releasing faster and more reliable using the cloud. I’m passionate about creating better ways to build and release software, always with the goal of efficiency and security. I’m here to learn, share, and collaborate with others who are excited about pushing the boundaries of technology. Let’s make something great together!
