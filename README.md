@@ -4,7 +4,7 @@ I'm from India 🇮🇳 - A DevOps/cloud Enthusiast who ♥ loves automating stu
 
 🔭 **Working On**: Enhancing on AWS differnt services.
 
-📝 **Blogging**: I regularly share my insights and learnings on https://aakanksha1415.hashnode.dev.
+📝 **Blogging**: I regularly share my insights and learnings on [aakanksha1415](https://aakanksha1415.hashnode.dev)
 
 💬 **Ask Me About**: Anything DevOps - Tools, Practices, and the culture that binds them.
 
